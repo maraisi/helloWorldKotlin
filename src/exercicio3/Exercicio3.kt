@@ -1,5 +1,7 @@
+package exercicio3
+
 fun main(){
-    return numeroPar()
+    println(numeroPar(5))
 }
 
 fun numeroPar(num: Int): Boolean{
