@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00898e05-79b1-4161-928f-4c6b5978c925" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorldKotlin/HelloKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorldKotlin/META-INF/helloWorldKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorldKotlin/META-INF/helloWorldKotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorldKotlin/exercicio1/Exercicio1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorldKotlin/exercicio2/Exercicio2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorldKotlin/exercicio3/Exercicio3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorldKotlin/exercicio4/Exercicio4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorldKotlin/exercicio5/Exercicio5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorldKotlin/exercicio6/Exercicio6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio1/Exercicio1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio2/Exercicio2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio3/Exercicio3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio4/Exercicio4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio5/Exercicio5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio6/Exercicio6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hbqVQ7FV7yW14OFJbASRKP3w85" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.grazie" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/09Colletions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Exercicio6Kt">
+    <configuration name="Exercicio1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="helloWorldKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="helloKotlin.exercicio1.Exercicio1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="helloWorldKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aula04.exercicio3.Exercicio3Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="helloWorldKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aula04.exercicio4.Exercicio4Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="helloWorldKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aula04.exercicio5.Exercicio5Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="helloWorldKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aula04.exercicio6.Exercicio6Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="helloWorldKotlin" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aula10EqualsDataClass.exercicio2.MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="helloWorldKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aula10EqualsDataClass.exercicio3.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Exercicio6Kt" />
+        <item itemvalue="Kotlin.Exercicio5Kt" />
+        <item itemvalue="Kotlin.Exercicio4Kt" />
+        <item itemvalue="Kotlin.Exercicio3Kt" />
+        <item itemvalue="Kotlin.Exercicio1Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00898e05-79b1-4161-928f-4c6b5978c925" name="Default Changelist" comment="" />
+      <created>1600290162251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600290162251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="81" width="738" height="639" key="#Inspections" timestamp="1600558082076">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="312" y="81" width="738" height="639" key="#Inspections/0.0.1366.734@0.0.1366.734" timestamp="1600558082076" />
+    <state x="225" y="0" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600554573922">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="225" y="0" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.734@0.0.1366.734" timestamp="1600554573922" />
+    <state x="415" y="159" width="531" height="417" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600455210650">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="415" y="159" width="531" height="417" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.734@0.0.1366.734" timestamp="1600455210650" />
+    <state x="416" y="149" width="530" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600455350579">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="416" y="149" width="530" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.734@0.0.1366.734" timestamp="1600455350579" />
+    <state width="1318" height="135" key="GridCell.Tab.0.bottom" timestamp="1600557880002">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1318" height="135" key="GridCell.Tab.0.bottom/0.0.1366.734@0.0.1366.734" timestamp="1600557880002" />
+    <state width="1318" height="135" key="GridCell.Tab.0.center" timestamp="1600557880002">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1318" height="135" key="GridCell.Tab.0.center/0.0.1366.734@0.0.1366.734" timestamp="1600557880002" />
+    <state width="1318" height="135" key="GridCell.Tab.0.left" timestamp="1600557880001">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1318" height="135" key="GridCell.Tab.0.left/0.0.1366.734@0.0.1366.734" timestamp="1600557880001" />
+    <state width="1318" height="135" key="GridCell.Tab.0.right" timestamp="1600557880002">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1318" height="135" key="GridCell.Tab.0.right/0.0.1366.734@0.0.1366.734" timestamp="1600557880002" />
+    <state x="0" y="2" width="1366" height="732" key="SettingsEditor" timestamp="1600558062985">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="0" y="2" width="1366" height="732" key="SettingsEditor/0.0.1366.734@0.0.1366.734" timestamp="1600558062985" />
+  </component>
+</project>
